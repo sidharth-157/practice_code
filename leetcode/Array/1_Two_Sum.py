@@ -11,5 +11,5 @@ class Solution:
                     arr.append(j)
                     break
         
-        return ar
+        return arr
 
